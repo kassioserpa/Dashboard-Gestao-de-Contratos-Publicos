@@ -17,7 +17,7 @@ O objetivo deste projeto foi desenvolver uma solução de Business Intelligence 
 
 ## 💡 A Solução (Dashboard)
 
-Desenvolvi um painel interativo que permite aos gestores e fiscais de contrato uma visão 360º de cada fornecedor. O dashboard consolida dados dispersos em uma interface limpa e focada em tomada de decisão rápida.
+Desenvolvi um painel interativo que permite aos gestores e fiscais de contrato uma visão 360º de cada contrato. O dashboard consolida dados dispersos em uma interface limpa e focada em tomada de decisão rápida.
 
 ![Dashboard de Gestão de Contratos](Dashboard_img.jpeg)
 
