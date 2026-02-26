@@ -1,18 +1,19 @@
-# 📊 Gestão de Contratos - Dashboard de Inteligência Administrativa
+# 📊 Dashboard - Gestão de Contratos ![Status](https://img.shields.io/badge/Status-Concluído-success)
 
-![Status](https://img.shields.io/badge/Status-Concluído-success)
-![Role](https://img.shields.io/badge/Role-BI_Engineer-blue)
-![Domain](https://img.shields.io/badge/Domain-Public_Administration-lightgrey)
 
-> **Visualização analítica e acompanhamento orçamentário de contratos públicos, focado em transparência, controle de prazos e conformidade com a legislação de licitações.**
+> Visualização e interação online: https://kassioserpa.github.io/Dashboard-Gestao-de-Contratos-Publicos/ 
 
 ---
 
 ## 🎯 O Desafio de Negócio
 
-A gestão de contratos na administração pública exige rigor absoluto no controle orçamentário e no cumprimento de prazos. O acompanhamento manual de vigências, notas de empenho e pagamentos frequentemente resulta em ineficiências operacionais, riscos de atraso de pagamento a fornecedores e potenciais quebras de conformidade com a Nova Lei de Licitações e Contratos (Lei nº 14.133/21).
+A gestão de contratos na administração pública exige rigor absoluto no controle orçamentário e no cumprimento de prazos. O acompanhamento manual de vigências, notas de empenho e pagamentos frequentemente resulta em ineficiências operacionais, riscos de atraso de pagamento a fornecedores e potenciais quebras de conformidade com a Nova Lei de Licitações e Contratos (Lei nº 14.133/21) e as Instruções Normativas:
+- Instrução Normativa Nº 5, de 26 de maio de 2017
+- Instrução Normativa SEGES/MGI Nº 82, de 21 de fevereiro de 2025
+- Instrução Normativa Nº 02, de 30 de abril de 2008 
 
-O objetivo deste projeto foi desenvolver uma solução de Business Intelligence automatizada e centralizada para monitorar a saúde financeira e o ciclo de vida dos contratos governamentais.
+
+O objetivo deste projeto foi desenvolver uma solução de Business Intelligence automatizada e centralizada para monitorar a saúde financeira, o ciclo de vida dos contratos do Ministério da Educação e sua conformidade com a legislação em vigor.
 
 ## 💡 A Solução (Dashboard)
 
@@ -54,9 +55,3 @@ O dashboard foi estruturado em três pilares analíticos:
 * **Eficiência Operacional:** Eliminação de horas gastas em conciliação de planilhas de controle paralelas.
 * **Transparência:** Facilitação das auditorias e prestação de contas aos órgãos de controle.
 
----
-
-## 👨‍💻 Autor
-
-**Kássio Serpa** *Data Analyst / BI Engineer* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassioserpa/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kassioserpa)
